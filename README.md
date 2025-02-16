@@ -1,17 +1,17 @@
 ## Hi there 👋
 
-### About me
-  - *Frontend-developer*
-  - *Second-year student* of Kazan Federal University
-  - *Constantly learning and experimenting* with the latest tools, frameworks, and technologies
+### *About me*
+  - **Frontend-developer**
+  - **Second-year student** of Kazan Federal University
+  - **Constantly learning and experimenting** with the latest tools, frameworks, and technologies
 
-### Technologies
-  - *Languages* : Typescript, Javascript
-  - *Frameworks* : React, NextJS, TailwindCSS
+### *Technologies*
+  - **Languages** : Typescript, Javascript
+  - **Frameworks** : React, NextJS, TailwindCSS
 
 ### Connect with me
-*Telegram* [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mhhlw)
-*Email* [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  - *Telegram* [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mhhlw)
+  - *Email* [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 
 <!--
