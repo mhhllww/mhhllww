@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+### About me
+  - *Frontend-developer*
+  - *Second-year student* of Kazan Federal University
+  - *Constantly learning and experimenting* with the latest tools, frameworks, and technologies
+
+### Technologies
+  - *Languages* : Typescript, Javascript
+  - *Frameworks* : React, NextJS, TailwindCSS
+
+### Connect with me
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
+
+
+
 <!--
 **mhhllww/mhhllww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
