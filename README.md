@@ -5,7 +5,7 @@
   - 🧑‍💻 **Second-year student** of Kazan Federal University
   - 🧪 **Constantly learning and experimenting** with the latest tools, frameworks, and technologies
   - 🔭 I’m currently **working on** React/NextJS projects
-  - 🌱 I’m currently **learning** NextJS, FSD architectural methodology and others popular technologies.
+  - 🌱 I’m currently **learning** NextJS, FSD architectural methodology and others popular technologies
 
 ### 💻 *Technologies*
   - ⚡ **Languages** : Typescript, Javascript
