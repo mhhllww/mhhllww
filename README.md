@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### ⚡ *About me*
+### 🧑 *About me*
   - 👽 **Frontend-developer**
   - 🧑‍💻 **Second-year student** of Kazan Federal University
   - 🧪 **Constantly learning and experimenting** with the latest tools, frameworks, and technologies
