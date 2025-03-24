@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🧑 *About me*
-  - 👽 **Frontend-developer**
+  - 👽 Two years in **Front-end development**
   - 🧑‍💻 **Second-year student** of Kazan Federal University
   - 🧪 **Constantly learning and experimenting** with the latest tools, frameworks, and technologies
   - 🔭 I’m currently **working on** React/NextJS projects
